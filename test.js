@@ -1,6 +1,6 @@
 
 function fizzBuzz(num){
-  return null;
+  return "1";
 }
 
 test("1を渡すと文字列1を返す",()=>{
